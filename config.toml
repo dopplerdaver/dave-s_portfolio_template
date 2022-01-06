@@ -113,7 +113,7 @@ disqusShortname = ""
     
     
     [[params.tiles.showcase]]
-      title = "Quality Control (QC) pplications for NEXRAD"
+      title = "Quality Control (QC) applications for NEXRAD"
       subtitle = "...RFI detection and classification, biologics, etc."
       image = ""
       url = "https://github.com/dopplerdaver/NEXRAD-QC-detect"
