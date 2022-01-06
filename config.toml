@@ -215,7 +215,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Ted Laderas"
+    copyright = "Dave Serke"
 
     # Uses font awesome icons
     [[params.footer.social]]
@@ -235,7 +235,7 @@ disqusShortname = ""
     
     [[params.footer.social]]
       icon = "fa-github"
-      url= "https://www.github.com/laderast"
+      url= "https://github.com/dopplerdaver"
       label = "GitHub"
 
     [[params.footer.social]]
