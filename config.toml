@@ -125,34 +125,22 @@ disqusShortname = ""
       url = "projects/choropleth"
 
     [[params.tiles.showcase]]
-      title = "Project: Animal Crossing Tidy Tuesday"
-      subtitle = "What personality/animal combos are unique?"
-      image = "projects/ac.png"
-      url = "projects/animal_crossing"
+      title = "Project7"
+      subtitle = ""
+      image = ""
+      url = ""
 
     [[params.tiles.showcase]]
-      title = "Course: Ready for R"
-      subtitle = "A gentle introduction to the R and the tidyverse"
-      image = "projects/ready4r.png"
-      url = "https://ready4r.netlify.app"
+      title = "FinQuant-101"
+      subtitle = "...Because I can"
+      image = ""
+      url = ""
 
     [[params.tiles.showcase]]
-      title = "Course: Stats for Neuroscientists"
-      subtitle = "A Course on Statistical Image Processing for Neuroscientists new to computing"
-      image = "projects/stats4neuro.png"
-      url = "https://stats4neuro.netlify.app"
-      
-    [[params.tiles.showcase]]
-      title = "Course: R-Bootcamp"
-      subtitle = "An interactive introduction to the tidyverse"
-      image = "projects/r-bootcamp.jpg"
-      url = "https://r-bootcamp.netlify.app"
-
-    [[params.tiles.showcase]]
-      title = "Workshop: A gRadual Introduction to Shiny"
-      subtitle = "A short workshop introducing basic shiny programming concepts"
-      #image = "projects/r-bootcamp.jpg"
-      url = "https://laderast.github.io/gradual_shiny/"
+      title = "Residential Energy Consumption"
+      subtitle = "...A study of home energy usage"
+      image = "https://github.com/dopplerdaver/Energy-residential/blob/main/home_energy.png"
+      url = "https://github.com/dopplerdaver/Energy-residential"
 
     # You can make more showcases by copy and pasting the code above
 
