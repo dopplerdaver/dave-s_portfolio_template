@@ -111,11 +111,10 @@ disqusShortname = ""
       image = "projects/citylightsthroughfog.jpg"
       url = "https://github.com/dopplerdaver/SVR-detect"
     
-    
     [[params.tiles.showcase]]
       title = "Quality Control (QC) applications for NEXRAD"
       subtitle = "...RFI detection and classification, biologics, etc."
-      image = ""
+      image = "projects/Nexrad_dualpol_qc_filter.png"
       url = "https://github.com/dopplerdaver/NEXRAD-QC-detect"
 
     [[params.tiles.showcase]]
