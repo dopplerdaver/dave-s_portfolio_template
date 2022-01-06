@@ -118,7 +118,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Non-weather QC detection applications for NEXRAD"
-      subtitle = "...Radio frequency interference (RFI), ground clutter (GrCl), and biological (BIO) detection/classification methodologies"
+      subtitle = "...for Radio frequency interference (RFI), ground clutter (GrCl), and biological (BIO) detection/classification methodologies"
       image = "projects/Nexrad_dualpol_qc_filter.png"
       url = "https://github.com/dopplerdaver/NEXRAD-QC-detect"
 
