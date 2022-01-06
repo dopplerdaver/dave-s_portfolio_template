@@ -112,7 +112,7 @@ disqusShortname = ""
       url = "https://github.com/dopplerdaver/SVR-detect"
       
     [[params.tiles.showcase]]
-      title = "Tactical aviation decisions with dual-polarization radar"
+      title = "Tactical aviation decision guidance with dual-polarization radar"
       subtitle = "...for aviation efficiency applications"
       image = "projects/TACTURB_sample_2x2.png"
       url = ""
