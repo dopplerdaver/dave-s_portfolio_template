@@ -94,22 +94,22 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "In-flight icing (RadIA) detection with dual-polarization radar"
-      subtitle = "...for aviation safety and efficiency"
+      subtitle = "...for aviation safety and efficiency applications"
       image = ""
       url = "https://github.com/dopplerdaver/IFI-detect"
 
     
     [[params.tiles.showcase]]
-      title = "Chaff detection with dual polarization radar"
+      title = "Chaff detection with dual-polarization radar"
       subtitle = "...for filtering chaff from weather returns"
       image = ""
       url = "https://github.com/dopplerdaver/CHAFF-detect"
 
     [[params.tiles.showcase]]
-      title = "Test4"
-      subtitle = ""
+      title = "Slant visual range detection with Numerical Weather Prediction Models"
+      subtitle = "...for aviation safety applications"
       image = "projects/penguin_party.png"
-      url = "https://tladeras.shinyapps.io/penguin_party/"
+      url = "https://github.com/dopplerdaver/SVR-detect"
     
     
     [[params.tiles.showcase]]
