@@ -122,8 +122,8 @@ disqusShortname = ""
       url = "https://github.com/dopplerdaver/NEXRAD-QC-detect"
       
     [[params.tiles.showcase]]
-      title = "Data analysis with cutting edge instrumentation"
-      subtitle = "...vibrating wire sondes, narrow and legacy radiometers, cloud radars, merge/blend of sources, satellite usage"
+      title = "Data analysis with experimental instrumentation"
+      subtitle = "...vibrating wire sondes, narrowbeam and legacy radiometers, cloud radars, merge/blend of sources, satellite usage"
       image = "projects/IMG_4551.v3.JPG"
       url = "https://github.com/dopplerdaver/instrumentation-analysis"
 
