@@ -101,7 +101,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Chaff detection with dual-polarization radar"
       subtitle = "...for detection/filtering of non-weather chaff from weather returns"
-      image = "projects/chaff_pack.png"
+      image = "projects/chaff_pack3.png"
       url = "https://github.com/dopplerdaver/CHAFF-detect"
 
     [[params.tiles.showcase]]
