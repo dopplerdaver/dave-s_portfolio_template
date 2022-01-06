@@ -86,10 +86,10 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     [[params.tiles.showcase]]
-      title = "Test1"
-      subtitle = ""
-      url = "projects/tidyverse_functions"
-      image = "projects/top_functions.jpg"
+      title = "Pyrometeor (PYRO) detection with radar"
+      subtitle = "3D views into a wildfire plume"
+      url = "https://github.com/dopplerdaver/PYRO-detect"
+      image = ""
 
     
     [[params.tiles.showcase]]
