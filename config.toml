@@ -46,8 +46,8 @@ disqusShortname = ""
     # logo = "logo.png"
 
     [[params.navigation.links]]
-      name = "Home"
-      url = "#"
+      name = "Home @ work"
+      url = "https://staff.ucar.edu/users/serke"
 
     [[params.navigation.links]]
       name = "Blog"
@@ -78,7 +78,7 @@ disqusShortname = ""
     title = "Dave Serke, M.S."
     subtitle = "Portfolio of Data Science and Visualization Projects"
     buttonText = "Curriculum Vitae"
-    url = "cv/"
+    url = "https://staff.ucar.edu/users/serke"
 
 
   # Tiles Section
@@ -87,40 +87,40 @@ disqusShortname = ""
     # Display your showcases here.
     [[params.tiles.showcase]]
       title = "Test1"
-      subtitle = "Parsing a twitter thread about tidyverse functions"
+      subtitle = ""
       url = "projects/tidyverse_functions"
       image = "projects/top_functions.jpg"
 
     
     [[params.tiles.showcase]]
       title = "Test2"
-      subtitle = "Are judges associated with overall episode rating?"
+      subtitle = ""
       image = "projects/chopped.png"
       url = "projects/chopped"
 
     
     [[params.tiles.showcase]]
       title = "Test3"
-      subtitle = "Understanding each character's journey through sentiment analysis"
+      subtitle = ""
       image = "projects/zuko.png"
       url = "projects/avatar"
 
     [[params.tiles.showcase]]
       title = "Test4"
-      subtitle = "Using decision trees to build a species predictor for the Palmer Penguin Dataset"
+      subtitle = ""
       image = "projects/penguin_party.png"
       url = "https://tladeras.shinyapps.io/penguin_party/"
     
     
     [[params.tiles.showcase]]
       title = "Test5"
-      subtitle = "Does processing method influence overall score?"
+      subtitle = ""
       image = "projects/coffee.png"
       url = "projects/coffee"
     
     [[params.tiles.showcase]]
-      title = "Project: Choropleth of Ready for R Class"
-      subtitle = "Where are the Ready for R Students From?"
+      title = "Test6"
+      subtitle = "?"
       image = "projects/choropleth.png"
       url = "projects/choropleth"
 
@@ -218,10 +218,10 @@ disqusShortname = ""
     copyright = "Dave Serke"
 
     # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com/tladeras"
-      label = "Twitter"
+    #[[params.footer.social]]
+     # icon = "fa-twitter"
+      #url= "https://www.twitter.com/tladeras"
+      #label = "Twitter"
 
     #[[params.footer.social]]
      # icon = "fa-facebook"
