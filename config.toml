@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "David J. Serke"
-  description = "Portfolio/CV for David J. Serke"
+  name = "Dave Serke"
+  description = "Portfolio/CV for Dave Serke"
 
   # Link custom assets relative to /static
   custom_css = []
