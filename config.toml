@@ -87,7 +87,7 @@ disqusShortname = ""
     # Display your showcases here.
     [[params.tiles.showcase]]
       title = "Pyrometeor (PYRO) detection with dual-polarization radar"
-      subtitle = "...for 3D views into wildfire plumes"
+      subtitle = "...for real-time 3D views into wildfire plumes for emergency responders and modellers"
       url = "https://github.com/dopplerdaver/PYRO-detect"
       image = "projects/PYRO_git_image.png"
     
@@ -100,7 +100,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Chaff detection with dual-polarization radar"
-      subtitle = "...for detection/filtering of non-weather chaff from weather returns"
+      subtitle = "...for detection/filtering of non-weather chaff from weather returns for forecasters and modellers"
       image = "projects/chaff_pack3.png"
       url = "https://github.com/dopplerdaver/CHAFF-detect"
 
