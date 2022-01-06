@@ -94,7 +94,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "In-flight icing (RadIA) detection with dual-polarization radar"
       subtitle = "...for aviation safety and efficiency applications"
-      image = "projects/Figure11_JTECH2021_CNVandRadIAtimeseries.png"
+      image = "projects/sample1.png"
       url = "https://github.com/dopplerdaver/IFI-detect"
 
     
