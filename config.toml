@@ -97,7 +97,6 @@ disqusShortname = ""
       image = "projects/sample1.png"
       url = "https://github.com/dopplerdaver/IFI-detect"
 
-    
     [[params.tiles.showcase]]
       title = "Chaff detection with dual-polarization radar"
       subtitle = "...for detection/filtering of non-weather chaff from weather returns for forecasters and modellers"
@@ -121,6 +120,12 @@ disqusShortname = ""
       subtitle = "...for Radio frequency interference (RFI), ground clutter (GrCl), and biological (BIO) detection/classification methodologies"
       image = "projects/Nexrad_dualpol_qc_filter.png"
       url = "https://github.com/dopplerdaver/NEXRAD-QC-detect"
+      
+    [[params.tiles.showcase]]
+      title = "Data analysis with cutting edge instrumentation"
+      subtitle = "...vibrating wire sondes, narrow and legacy radiometers, cloud radars, merge/blend of sources, satellite usage"
+      image = "projects/IMG_4551.v3.JPG"
+      url = "https://github.com/dopplerdaver/instrumentation-analysis"
 
     [[params.tiles.showcase]]
       title = "FinQuant-101"
