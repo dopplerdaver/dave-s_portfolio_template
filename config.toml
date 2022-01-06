@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Ted Laderas"
-  description = "Portfolio/CV for Ted Laderas"
+  name = "David J. Serke"
+  description = "Portfolio/CV for David J. Serke"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -39,8 +39,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Ted Laderas, PhD"
-    subtitle = "Data Scientist, Educator, and Collaborator"
+    title = "Dave Serke, M.S."
+    subtitle = "Data Scientist, Curious Learner, and Collaborator"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -75,7 +75,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Ted Laderas, PhD"
+    title = "Dave Serke, M.S."
     subtitle = "Portfolio of Data Science and Visualization Projects"
     buttonText = "Curriculum Vitae"
     url = "cv/"
@@ -86,34 +86,34 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     [[params.tiles.showcase]]
-      title = "Lesser Known Tidyverse Functions"
+      title = "Test1"
       subtitle = "Parsing a twitter thread about tidyverse functions"
       url = "projects/tidyverse_functions"
       image = "projects/top_functions.jpg"
 
     
     [[params.tiles.showcase]]
-      title = "Chopped Judges"
+      title = "Test2"
       subtitle = "Are judges associated with overall episode rating?"
       image = "projects/chopped.png"
       url = "projects/chopped"
 
     
     [[params.tiles.showcase]]
-      title = "Avatar Sentiment Journeys"
+      title = "Test3"
       subtitle = "Understanding each character's journey through sentiment analysis"
       image = "projects/zuko.png"
       url = "projects/avatar"
 
     [[params.tiles.showcase]]
-      title = "Shiny App: Palmer Penguin Party"
+      title = "Test4"
       subtitle = "Using decision trees to build a species predictor for the Palmer Penguin Dataset"
       image = "projects/penguin_party.png"
       url = "https://tladeras.shinyapps.io/penguin_party/"
     
     
     [[params.tiles.showcase]]
-      title = "Project: Understanding Coffee Scores"
+      title = "Test5"
       subtitle = "Does processing method influence overall score?"
       image = "projects/coffee.png"
       url = "projects/coffee"
