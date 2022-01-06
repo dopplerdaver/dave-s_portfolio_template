@@ -86,7 +86,7 @@ disqusShortname = ""
     enable = true
     # Display your showcases here.
     [[params.tiles.showcase]]
-      title = "Pyrometeor (PYRO) detection with dual-polarization radar"
+      title = "Pyrometeor (PYRO) detection with dual-polarization radar and satellite inputs"
       subtitle = "...for real-time 3D views into wildfire plumes for emergency responders and modellers"
       url = "https://github.com/dopplerdaver/PYRO-detect"
       image = "projects/PYRO_git_image.png"
