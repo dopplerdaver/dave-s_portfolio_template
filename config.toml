@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Portfolio for Ted Laderas, PhD"
+title = "Portfolio for Dave Serke, M.S."
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -108,21 +108,21 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Slant visual range detection with Numerical Weather Prediction Models"
       subtitle = "...for aviation safety applications"
-      image = "projects/penguin_party.png"
+      image = ""
       url = "https://github.com/dopplerdaver/SVR-detect"
     
     
     [[params.tiles.showcase]]
       title = "Test5"
       subtitle = ""
-      image = "projects/coffee.png"
-      url = "projects/coffee"
+      image = ""
+      url = ""
     
     [[params.tiles.showcase]]
       title = "Test6"
       subtitle = "?"
-      image = "projects/choropleth.png"
-      url = "projects/choropleth"
+      image = ""
+      url = ""
 
     [[params.tiles.showcase]]
       title = "Project7"
@@ -134,7 +134,7 @@ disqusShortname = ""
       title = "FinQuant-101"
       subtitle = "...Because I can"
       image = ""
-      url = ""
+      url = "https://github.com/dopplerdaver/INV-py"
 
     [[params.tiles.showcase]]
       title = "Residential Energy Consumption"
