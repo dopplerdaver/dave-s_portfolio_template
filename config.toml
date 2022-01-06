@@ -89,7 +89,7 @@ disqusShortname = ""
       title = "Pyrometeor (PYRO) detection with dual-polarization radar"
       subtitle = "...for 3D views into a wildfire plume"
       url = "https://github.com/dopplerdaver/PYRO-detect"
-      image = "https://github.com/dopplerdaver/PYRO-detect/blob/main/PYRO_git_image.png"
+      image = "projects/PYRO_git_image.png"
 
     
     [[params.tiles.showcase]]
