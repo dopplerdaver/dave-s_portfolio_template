@@ -106,17 +106,17 @@ disqusShortname = ""
       url = "https://github.com/dopplerdaver/CHAFF-detect"
 
     [[params.tiles.showcase]]
-      title = "Slant visual range detection with Numerical Weather Prediction Models"
+      title = "Slant visual range (SVR) detection with Numerical Weather Prediction Models"
       subtitle = "...for aviation safety applications"
       image = ""
       url = "https://github.com/dopplerdaver/SVR-detect"
     
     
     [[params.tiles.showcase]]
-      title = "Test5"
-      subtitle = ""
+      title = "Quality Control (QC) pplications for NEXRAD"
+      subtitle = "...RFI detection and classification, biologics, etc."
       image = ""
-      url = ""
+      url = "https://github.com/dopplerdaver/NEXRAD-QC-detect"
     
     [[params.tiles.showcase]]
       title = "Test6"
