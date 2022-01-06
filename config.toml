@@ -121,7 +121,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "FinQuant-101"
       subtitle = "...Because I can"
-      image = ""
+      image = "projects/FinQuant_example.png"
       url = "https://github.com/dopplerdaver/INV-py"
 
     [[params.tiles.showcase]]
