@@ -108,7 +108,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Slant visual range (SVR) detection using a Numerical Weather Prediction (NWP) Model"
       subtitle = "...for aviation safety applications"
-      image = ""
+      image = "projects/citylightsthroughfog.jpg"
       url = "https://github.com/dopplerdaver/SVR-detect"
     
     
