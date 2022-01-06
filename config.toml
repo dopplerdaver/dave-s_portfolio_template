@@ -87,10 +87,9 @@ disqusShortname = ""
     # Display your showcases here.
     [[params.tiles.showcase]]
       title = "Pyrometeor (PYRO) detection with dual-polarization radar"
-      subtitle = "...for 3D views into a wildfire plume"
+      subtitle = "...for 3D views into wildfire plumes"
       url = "https://github.com/dopplerdaver/PYRO-detect"
       image = "projects/PYRO_git_image.png"
-
     
     [[params.tiles.showcase]]
       title = "In-flight icing (RadIA) detection with dual-polarization radar"
@@ -101,7 +100,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Chaff detection with dual-polarization radar"
-      subtitle = "...for filtering chaff from weather returns"
+      subtitle = "...for detection/filtering of non-weather chaff from weather returns"
       image = "projects/chaff_pack.png"
       url = "https://github.com/dopplerdaver/CHAFF-detect"
 
@@ -119,7 +118,7 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "Non-weather QC detection applications for NEXRAD"
-      subtitle = "...Radio Frequency interference (RFI), ground clutter, and biological detection/classification methodologies"
+      subtitle = "...Radio frequency interference (RFI), ground clutter (GrCl), and biological (BIO) detection/classification methodologies"
       image = "projects/Nexrad_dualpol_qc_filter.png"
       url = "https://github.com/dopplerdaver/NEXRAD-QC-detect"
 
