@@ -240,7 +240,7 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com/in/ted-laderas-0714a92/"
+      url= "https://www.linkedin.com/in/dave-serke-9956a16/"
       label = "LinkedIn"
 
     [[params.footer.quicklinks]]
