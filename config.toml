@@ -199,17 +199,17 @@ disqusShortname = ""
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
-    title = "Email"
-    email = "tedladeras (at) gmail.com"
+    title = "Email:"
+    email = "serke (at) ucar.edu"
 
     [[params.contact.phone]]
-    title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    title = "Phone:"
+    phone = "(720) 930-1343 "
 
     [[params.contact.address]]
-    title = "Address"
-    street = "3181 SW Sam Jackson Road"
-    city = "Portland, OR 97212"
+    title = "Based at:"
+    street = ""
+    city = "Lafayette, CO 80026"
     country = "USA"
 
   # Footer section
