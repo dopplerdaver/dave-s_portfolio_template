@@ -95,7 +95,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "In-flight icing (RadIA) detection with dual-polarization radar"
       subtitle = "...for aviation safety and efficiency applications"
-      image = "projects/case_timeseries_newpng"
+      image = "projects/case_timeseries_new.png"
       url = "https://github.com/dopplerdaver/IFI-detect"
 
     
@@ -110,6 +110,12 @@ disqusShortname = ""
       subtitle = "...for aviation safety applications"
       image = "projects/citylightsthroughfog.jpg"
       url = "https://github.com/dopplerdaver/SVR-detect"
+      
+    [[params.tiles.showcase]]
+      title = "Tactical aviation decisions with dual-polarization radar"
+      subtitle = "...for aviation efficiency applications"
+      image = "projects/TACTURB_sample_2x2.png"
+      url = ""
     
     [[params.tiles.showcase]]
       title = "Quality Control (QC) applications for NEXRAD"
