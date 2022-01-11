@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Portfolio for Dave Serke, M.S."
+title = "Portfolio for Dave Serke, M.A."
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -39,7 +39,7 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Dave Serke, M.S."
+    title = "Dave Serke, M.A."
     subtitle = "Data Scientist, Curious Learner, and Collaborator"
     menu = "Menu"
     # Optional logo as brand stored in img/
