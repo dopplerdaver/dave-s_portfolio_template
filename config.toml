@@ -75,7 +75,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Dave Serke, M.S."
+    title = "Dave Serke, M.A."
     subtitle = "Portfolio of Data Science and Visualization Projects"
     buttonText = "Curriculum Vitae"
     url = "https://staff.ucar.edu/users/serke"
