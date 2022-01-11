@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Portfolio for Dave Serke, M.A."
+title = "Portfolio for Dave Serke, M.S."
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -39,7 +39,7 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Dave Serke, M.A."
+    title = "Dave Serke, M.S."
     subtitle = "Data Scientist, Curious Learner, and Collaborator"
     menu = "Menu"
     # Optional logo as brand stored in img/
@@ -75,7 +75,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Dave Serke, M.A."
+    title = "Dave Serke, M.S."
     subtitle = "Portfolio of Data Science and Visualization Projects"
     buttonText = "Curriculum Vitae"
     url = "https://staff.ucar.edu/users/serke"
